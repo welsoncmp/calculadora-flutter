@@ -63,6 +63,14 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
+  assets:
+    - assets/images/divisao.png
+    - assets/images/igual.png
+    - assets/images/multiplicacao.png
+    - assets/images/soma.png
+    - assets/images/subtracao.png
+    - assets/images/apagar.png
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
