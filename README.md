@@ -2,15 +2,4 @@
 
 Projeto de calculadora em flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![01](https://github.com/welsoncmp/calculadora-flutter/assets/42895405/3af2ac93-b8cc-440f-80bb-56b5eb738d0a)
